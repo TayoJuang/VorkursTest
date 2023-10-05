@@ -1,1 +1,9 @@
 # Hausaufgabe
+
+## Aufgabe 1
+
+Dies ist die Lösung zur Aufgabe 1
+
+## Aufgabe 2
+
+Dies ist die Lösung zur Aufgabe 2
